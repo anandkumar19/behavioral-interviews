@@ -51,13 +51,6 @@ This format is inspired by the book "Cracking the Coding Interview" by Gayle Laa
 
 I found it really helpful during my preparation. 
 
-Create a sheet and list down common questions and their answers for each project. 
-
-You can clone the Notion page and fill this sheet based on your experience.
-![Interview Preparation Grid](images/interview-preparation-grid.png)
-[Notion Page](https://ashishps.notion.site/ashishps/Behavioral-Interview-Preparation-Grid-95f97d42f3494d86a3a683752c4b54b5)
-
-
 ## Questions
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
 <details>
@@ -931,5 +924,4 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - What excites you the most about the [company name]'s future?
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
-## Other Resources
-[Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+
